@@ -1,0 +1,21 @@
+name: TotT
+channels:
+    - defaults
+dependencies:
+    - python = 3.9
+    - conda-forge::numpy
+    - conda-forge::matplotlib
+    - conda-forge::cartopy
+    - conda-forge::jupyter
+    - conda-forge::jupyterlab
+    - conda-forge::metpy
+    - conda-forge::cfgrib
+    - conda-forge::herbie-data
+    - conda-forge::pandas
+    - conda-forge::xarray
+    - conda-forge::satpy
+    - conda-forge::arm_pyart
+    - conda-forge::netCDF4
+    - conda-forge::scipy
+    - conda-forge::seaborn
+    - conda-forge::wrf-python
