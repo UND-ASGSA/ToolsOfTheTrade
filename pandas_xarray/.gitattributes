@@ -1,0 +1,1 @@
+wrfout_d01_2020-02-12_00_00_00.nc filter=lfs diff=lfs merge=lfs -text
